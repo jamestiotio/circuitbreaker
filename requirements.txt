@@ -1,0 +1,2 @@
+libdw
+windows-curses

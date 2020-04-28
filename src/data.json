@@ -1,0 +1,219 @@
+{
+  "characters": [
+    {
+      "Apple Koh": {
+        "hp": 2000,
+        "crit_rate": 0.1,
+        "crit_mult": 1.2,
+        "attack_list": [
+          { "Apple Pie": 40 },
+          { "An Apple A Day": 60 },
+          { "Neat Handwritten Notes": 50 },
+          { "Email Barrage": 70 }
+        ],
+        "quotes": [
+          "An Apple a day keeps the doctor away.",
+          "Why I have so many teams...",
+          "Stop stressing me.",
+          "It's time for Apple to be annoying again!",
+          "*fruit-sighing*",
+          "DIDN'T YOU READ MY EMAIL!?",
+          "Pee Lab... Hehe..",
+          "We are going blind marking your work.",
+          "The scholar marks very slowly.",
+          "Someone in our department, I'm not going to say who.",
+          "Hello, it's me again.",
+          "Kwan Academy is not happy with the videos' view count!",
+          "You have been spared of two days of no email from me."
+        ],
+        "artwork": [
+          "        .:'",
+          "    __ :'__",
+          " .'`__`-'__``.",
+          ":__________.-'",
+          ":_________:",
+          " :_________`-;",
+          "  `.__.-.__.'"
+        ]
+      }
+    },
+    {
+      "Maggie Pee": {
+        "hp": 2200,
+        "crit_rate": 0.07,
+        "crit_mult": 1.4,
+        "attack_list": [
+          { "Maggie Mee": 40 },
+          { "Personal Handwritten Notes": 50 }
+        ],
+        "quotes": [
+          "Yes, no, maybe so...",
+          "I miss Apple...",
+          "I need Apple to be reminded of my presence.",
+          "Gonna start an Apple club.",
+          "Yes yes, no no...?",
+          "The fruit will scold you.",
+          "Hang in there!",
+          "Since I'm not an A+ student, according to somebody...",
+          "As I am not a selfish person, I will help you."
+        ],
+        "artwork": [
+          "#@@@@@    (@@@@@  /&@@@@@@#    %@@@@@%&&&/  &@@@@@(&&& @@@(",
+          "#@@&@@@  &@@#@@@ (((     (@@@/@@@     @@@(@@@&     @@@ @@@(",
+          "#@@& @@@@@@  @@@ @@@%    @@@@ @@@@&&&@@@@((@@@@&&@@@@@ @@@(",
+          "#@@&  &@@@   @@@ @@@@@@@@@@@@ @@@     @@@ @@@&     @@@ @@@(",
+          "                               #@@@@@@@/    %@@@@@@&       "
+        ]
+      }
+    },
+    {
+      "Chee Huei": {
+        "hp": 2500,
+        "crit_rate": 0.1,
+        "crit_mult": 1.5,
+        "attack_list": [
+          { "Learning Catalytics": 30 },
+          { "Rigorous Proof": 75 }
+        ],
+        "quotes": ["3, 2, 1... Thank you."],
+        "artwork": []
+      }
+    },
+    {
+      "Lakshminarasimhan Krishnaswamy": {
+        "hp": 2000,
+        "crit_rate": 0.13,
+        "crit_mult": 1.27,
+        "attack_list": [
+          { "Rapid Fly Mating": 50 },
+          { "PCR Primer Design": 100 }
+        ],
+        "quotes": [
+          "I love your class!",
+          "You guys should go to the same pillar together.",
+          "I find Biology interesting!",
+          "That answer is perfect."
+        ],
+        "artwork": []
+      }
+    },
+    {
+      "Kenny Choo": {
+        "hp": 2300,
+        "crit_rate": 0.08,
+        "crit_mult": 1.3,
+        "attack_list": [{ "Sneeze Attack": 40 }, { "Google Colab": 55 }],
+        "quotes": [
+          "Autosomal Dominant Compelling Helioophthalmic Outburst Syndrome!"
+        ],
+        "artwork": []
+      }
+    },
+    {
+      "Natalie Agus": {
+        "hp": 2100,
+        "crit_rate": 0.2,
+        "crit_mult": 1.1,
+        "attack_list": [
+          { "Tanks": 45 },
+          { "Sending Code Through Telegram": 70 },
+          { "Wizards": 30 }
+        ],
+        "quotes": [
+          "During exam we cannot Google, word.",
+          "Google it.",
+          "I don't like Kivy.",
+          "Unity ftw!",
+          "Your seniors ah...",
+          "Some in ISTD still asking me this... *smh*",
+          "Hello, can someone answer me? I feel like I'm talking to myself.",
+          "Okay nevermind, I'll just answer myself.",
+          "*Adds semicolons in Python* Oh habit hehe...",
+          "Get you guys food so that people will answer me.",
+          "I'm not that old!!"
+        ],
+        "artwork": []
+      }
+    },
+    {
+      "Keegan Kang": {
+        "hp": 3500,
+        "crit_rate": 0.15,
+        "crit_mult": 1.25,
+        "attack_list": [
+          { "Philosophical Math Prompts": 100 },
+          { "Silence": 40 },
+          { "Intense Visualization": 50 }
+        ],
+        "quotes": ["Question!"],
+        "artwork": []
+      }
+    },
+    {
+      "Sergey Kushnarev": {
+        "hp": 3000,
+        "crit_rate": 0.14,
+        "crit_mult": 1.23,
+        "attack_list": [
+          { "Writing Off-Board": 80 },
+          { "Absurd Analogies": 35 },
+          { "Math Memes": -10 }
+        ],
+        "quotes": [
+          "The Russian Method!",
+          "Miss Nabla...",
+          "Follow @sutdmath on Instagram.",
+          "Since Math has no boundaries, it's okay to write off the board."
+        ],
+        "artwork": []
+      }
+    },
+    {
+      "???": {
+        "hp": 10000,
+        "crit_rate": 0.5,
+        "crit_mult": 5,
+        "attack_list": [
+          { "SARS-CoV-2": 150 },
+          { "Loneliness": 120 },
+          { "Dark Magic": 500 },
+          { "Boredom": 70 },
+          { "Procrastination": 100 },
+          { "Zoombombing": 90 },
+          { "zoomAutenticationTool": 135 },
+          { "UNC Path Injection": 350 },
+          { "Bat Invasion": 300 },
+          { "Premium 0.5-Ply Toilet Paper": -2 }
+        ],
+        "quotes": [
+          "...",
+          "The quieter you become, the more you are able to hear...",
+          "The angel of death...",
+          "Rise of the quaranteens.",
+          "War has changed.",
+          "Killing is one of those things that get easier the more you do it."
+        ],
+        "artwork": [
+          "                 @@@                 ",
+          "             @@@@@@@@@@@             ",
+          "           @@@@@@@@@@@@@@@           ",
+          "          @@@@@@@@@@@@@@@@@          ",
+          "        @@@@@@@@@@@@@@@@@@@@@        ",
+          "       @@@                 @@@       ",
+          "          @@             @@          ",
+          "       @@@@@ @         @ @@@@@       ",
+          "     @@@@@@@@@ @     @ @@@@@@@@@     ",
+          "   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   ",
+          "  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  ",
+          " @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ ",
+          "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+          "@@@@@@@@@@    @@@@@@@@@    @@@@@@@@@@",
+          "       @@@@@@@@@@@@@@@@@@@@@@@@      "
+        ]
+      }
+    }
+  ],
+  "fights": [],
+  "actions": [],
+  "items": []
+}
