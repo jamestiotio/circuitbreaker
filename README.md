@@ -39,7 +39,7 @@ For the `Pokemon` variant class, it contains the `BattleEngine` class which inhe
 
 ## Inspirations
 
-- https://github.com/nikhilkumarsingh/python-curses-tut/
+- https://github.com/nikhilkumarsingh/python-curses-tut
 - https://github.com/KyrosDigital/SnakeGame
 - https://github.com/cSquaerd/CursaTetra
 - https://github.com/aleksilassila/text-moba
