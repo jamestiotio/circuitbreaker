@@ -28,11 +28,19 @@ For the `Pokemon` variant class, it contains the `BattleEngine` class which inhe
 
 ## Future Implementations
 
-- Add MORE COLORS
-- Add MORE SPRITES
+- Add MORE COLORS!!
+- Add MORE SPRITES!!
 - Revamp the plot to actually focus on the grading of the SUTD Digital World Final Programming Game Assignment by an associate professor, with multiple game variants to be graded.
 - Add a map system and an item system for the RPG game variant, as well as more characters.
 - Add another game variant where it allows the player to code their own game in Python, thus being super meta (?).
 - More game variants, maybe? (Ideas include: Snake, Tetris, Metroidvania-Style Platformer, Text-Based D&D-Style Adventure, Text-Based Multiplayer Shooter, Point-and-Click Detective Investigation, etc).
 - Add an ongoing continuous plot that integrates all variants such as ending with a final boss battle which transitions/glitches between variants (more inspiration from Undertale Ink Sans Fight).
-- Add some doggos.
+- Add some doggos!
+
+## Inspirations
+
+- https://github.com/nikhilkumarsingh/python-curses-tut/
+- https://github.com/KyrosDigital/SnakeGame
+- https://github.com/cSquaerd/CursaTetra
+- https://github.com/aleksilassila/text-moba
+- https://notimetoplay.org/games/tomb-of-the-snake/index.html
