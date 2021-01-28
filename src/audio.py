@@ -1,5 +1,6 @@
 # coding: utf-8
 # Since external libraries are not allowed for this assignment, I need to implement my own cross-platform audio system using only standard Python libraries
+# Slightly modified from https://github.com/TaylorSMarks/playsound
 # Created by James Raphael Tiovalen (2020)
 
 def _playaudioWin(sound, block=True):
